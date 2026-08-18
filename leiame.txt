@@ -1,0 +1,15 @@
+Olá, Este não é um subistituto do README, é apenas um guia. 
+
+para compilar e rodar o código C, abra o terminal dentro da pasta C, e execute o seguinte comando:
+    
+    (necessário ter o GCC Intalado!!)
+
+    gcc AVL.c -o AVL
+
+Se estiver no windows, irá gerar um AVL.exe, já no Linux terá um arquivo com o nome AVL somente. 
+
+Para executar no Windows, basta clicar duas vezes no executável ou colocar no terminal AVL.exe (somente o nome do arquivo).
+
+Caso esteja no MAC ou Linux, utilize ./AVL, que o programa será executado.
+
+(A Versão em python foi para servir de guia para a conversão, se quiserem executar a versão em python, terão que criar uma função de inicialização para testar a árvore.)
