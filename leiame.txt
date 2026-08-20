@@ -1,4 +1,4 @@
-Olá, Este não é um subistituto do README, é apenas um guia. 
+Olá, Este não é um substituto do README, é apenas um guia. 
 
 para compilar e rodar o código C, abra o terminal dentro da pasta C, e execute o seguinte comando:
     
