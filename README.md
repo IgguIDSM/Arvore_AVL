@@ -81,9 +81,9 @@ Trabalho prático desenvolvido na Universidade de Vassouras (Campus Saquarema) p
 * Felipe Casagrande Oliveira
 * Igor dos Santos Moura
 * Joanne Garcia Azevedo
+* Kadu Luis Santos Novaes
 * Larissa Barbosa Simas
 * Leonardo Paulucci
 * Luis Andrei Abreu Senna
 * Maria Regina Garcia Duarte
 * Rayan Roque dos Santos
-* Kadu Luis Santos Novaes
